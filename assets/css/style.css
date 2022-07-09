@@ -89,13 +89,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header .profile h1 a, #header .profile h1 a:hover {
-  color: rgba(225, 45, 42, 0.619);
+  color: rgba(67, 40, 188, 0.619);
   text-decoration: none;
 }
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #2e3243;
+  background: #212431;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
