@@ -414,7 +414,7 @@ section {
   margin-bottom: 30px;
 }
 .portfolio .section-title  p  {
-  font-size: 30px;
+  font-size: 20px;
   text-align: justify;
 }
 .portfolio .section-title  p strong {
@@ -481,7 +481,7 @@ section {
   margin-bottom: 30px;
 }
 .experience .section-title  p  {
-  font-size: 30px;
+  font-size: 20px;
   text-align: justify;
 }
 .experience .section-title  p strong {
@@ -663,7 +663,7 @@ section {
   background: #149ddd;
   color: #fff;
 }
-.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i, .contact .info .map:hover i{
   background: #149ddd;
   color: #fff;
 }
